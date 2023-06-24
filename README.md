@@ -1,4 +1,4 @@
-# Projects
+# DETECTING PEDOPHILES ON SOCIAL MEDIA USING CONVOLUTIONAL NEURAL NETWORK
 Pedophiles are using social media as a platform to apporach minors with malcious intentions. Many Machine learning algorithms were used to detect 
 these kind of people and these algorithms successful, however these algorithm has two major draw back,that is, these algorithms lack accuracy and the scope 
 of improvement is low. In this project deep convolutional neural network is employed to achieve the same. The dataset used to train the model contains 
